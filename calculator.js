@@ -30,6 +30,7 @@ function naturalLog(value) {
 // TODO: Implement sine function
 function sine(value) {
     // return the sine of the value
+    return math.sin(value);
 }
 
 // TODO: Implement cosine function
